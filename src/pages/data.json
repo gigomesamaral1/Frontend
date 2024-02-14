@@ -1,0 +1,52 @@
+[
+{
+      "nome": "Jorge",
+      "departamento": "Operações",
+      "chamados": 2
+    },
+    {
+      "nome": "Felippe",
+      "departamento": "Tecnologia",
+      "chamados": 1
+    },
+    {
+      "nome": "Larissa",
+      "departamento": "Comercial",
+      "chamados": 3
+    },
+    {
+      "nome": "Giovanna",
+      "departamento": "Operações",
+      "chamados": 5
+    },
+    {
+      "nome": "João",
+      "departamento": "Tecnologia",
+      "chamados": 14
+    },
+    {
+      "nome": "Fernanda",
+      "departamento": "Comercial",
+      "chamados": 12
+    },
+    {
+      "nome": "Magarão",
+      "departamento": "Operações",
+      "chamados": 10
+    },
+    {
+      "nome": "Ana",
+      "departamento": "Tecnologia",
+      "chamados": 15
+    },
+    {
+      "nome": "Gabriel",
+      "departamento": "Comercial",
+      "chamados": 5
+    },
+    {
+      "nome": "Henrique",
+      "departamento": "Operações",
+      "chamados": 1
+    }
+]
